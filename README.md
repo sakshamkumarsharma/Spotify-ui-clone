@@ -32,9 +32,6 @@ This project recreates the layout and design of Spotify's interface including th
 
 ![Spotify UI Clone](assets/preview.png)
 
-Example:
-
-"Spotify UI Clone" (assets/preview.png)
 
 ---
 
