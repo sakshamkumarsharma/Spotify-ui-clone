@@ -51,7 +51,7 @@ spotify-ui-clone
 
 ---
 
-🔗 Live Demo
+
 
 ## Live Demo
 🔗 [Open the website](https://sakshamkumarsharma.github.io/Spotify-ui-clone)
