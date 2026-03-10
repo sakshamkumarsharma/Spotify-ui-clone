@@ -28,7 +28,9 @@ This project recreates the layout and design of Spotify's interface including th
 
 📸 Preview
 
-(Add your screenshot here)
+## Preview
+
+![Spotify UI Clone](assets/preview.png)
 
 Example:
 
@@ -54,9 +56,8 @@ spotify-ui-clone
 
 🔗 Live Demo
 
-After enabling GitHub Pages, your project will be available at:
-
-https://yourusername.github.io/spotify-ui-clone
+## Live Demo
+🔗 [Open the website](https://sakshamkumarsharma.github.io/Spotify-ui-clone)
 
 ---
 
